@@ -34,3 +34,8 @@ npm install @angular/cdk --save
 
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgxChartsModule } from '@swimlane/ngx-charts';
+
+# Para local backend
+firebase serve
+
+
