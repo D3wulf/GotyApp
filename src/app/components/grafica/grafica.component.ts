@@ -13,6 +13,9 @@ import { NgxChartsModule } from '@swimlane/ngx-charts';
     display:grid;
     height:300px;
   }
+  .altura{
+    max-height:210px;
+  }
   `
   ]
 })
@@ -50,7 +53,7 @@ export class GraficaComponent implements OnDestroy {
   yAxisLabel = 'Votos';
 
   colorScheme ={
-    domain: ['#5AA454', '#A10A28', '#C7B42C', '#AAAAAA']
+    domain: ['#5AA454', '#A10A28', '#C7B42C', '#AAAAAA', '#8508EB','#01F5D5','#EB0059','#F5BA0F']
   };
 
   
