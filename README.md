@@ -26,16 +26,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Para las graficas
+## Para las gráficas
 
 npm install @angular/cdk --save
 
-# Modulos
+# Working charts modules
 
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgxChartsModule } from '@swimlane/ngx-charts';
 
-# Para local backend
-firebase serve
-
-
+# Firebase Host
+https://angular-goty-568f8.web.app/goty
